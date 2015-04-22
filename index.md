@@ -1,46 +1,28 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Seyoung Park
+tagline: 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+I am a first year Ph.D. student in Computer Science at the University of California, Los Angeles (UCLA). My research interests include computer vision and machine learning. I received my master’s degree from Computer Science at UCLA in 2012.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+**Contact information**
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+*Email : seypark 엣 cs.ucla.edu*
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+*Office : 8145 Math Sciences Building, UCLA*
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+## Research
+----
+<h3> Pose Estimation</h3>
+The human body exhibits many important relationships between adjacent parts, as well as between parts and their neighboring background regions. In this work, we learn context-sensitive compatibilities for how neighboring parts are produced by the grammar, and how their geometries and appearances are related. Furthermore, we utilize a background segmentation model to reason about the contrast between ... \[[detail]()\]\[[pdf](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Human_parsing_cvpr2013.pdf)\]
 
-    $ rm -rf _posts/core-samples
+<h3> Human attribute prediction</h3>
+Humans use numerous cues to recognize attributes such as gender. For example, hair styles, cloth types, poses and accessories affect the judgments of gender because global information about the human can be considered as a composition of local cues. In this work, as human use local information, we infer global information using local information. We design attributed and-or grammar... \[[detail]\]()
 
-Here's a sample "posts list".
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
