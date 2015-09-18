@@ -26,3 +26,12 @@ Summer, 2015
 
 Research Scientist Intern, Amazon<br/>
 Summer, 2014
+
+### Teaching Experience
+Programming, C++ (CS 31), Teaching Assistant<br/>
+Spring, 2014
+
+Fundamentals of Artificial Intelligence (CS 161), Teaching Assistant<br/>
+Fall, 2012
+
+
