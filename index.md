@@ -5,24 +5,24 @@ tagline:
 ---
 {% include JB/setup %}
 
-I am a first year Ph.D. student in Computer Science at the University of California, Los Angeles (UCLA). My research interests include computer vision and machine learning. I received my master’s degree from Computer Science at UCLA in 2012.
+I am a Ph.D. student in Computer Science at the University of California, Los Angeles (UCLA). My research interests include computer vision and machine learning. I received my master’s degree from Computer Science at UCLA in 2012. My advisior is [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/).
 
 
-**Contact information**
+**Contact information**<br/>
+*Email : seypark \[et\] cs.ucla.edu*<br/>
 
-*Email : seypark 엣 cs.ucla.edu*
+### Publications
+**Attributed Grammars for Joint Estimation of Human Attributes, Part and Pose** \[[detail]()\]\[[pdf]()\]<br/>
+S. Park, S.C. Zhu <br/>
+International Conference on Computer Vision (ICCV), 2015. To Appear.
 
-*Office : 8145 Math Sciences Building, UCLA*
+**Integrating Grammar and Segmentation for Human Pose Estimation** \[[detail](http://www.stat.ucla.edu/~rothrock/pages/cvpr13/index.html)\]\[[pdf](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Human_parsing_cvpr2013.pdf)\]<br/>
+B. Rothrock, S. Park, and S.C. Zhu <br/>
+Computer Vision and Pattern Recognition (CVPR), 2013.
 
-## Research
-----
-<h3> Pose Estimation</h3>
-The human body exhibits many important relationships between adjacent parts, as well as between parts and their neighboring background regions. In this work, we learn context-sensitive compatibilities for how neighboring parts are produced by the grammar, and how their geometries and appearances are related. Furthermore, we utilize a background segmentation model to reason about the contrast between ... \[[detail]()\]\[[pdf](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Human_parsing_cvpr2013.pdf)\]
+### Working Experience
+Software Engineer, PhD Intern, Facebook<br/>
+Summer, 2015
 
-<h3> Human attribute prediction</h3>
-Humans use numerous cues to recognize attributes such as gender. For example, hair styles, cloth types, poses and accessories affect the judgments of gender because global information about the human can be considered as a composition of local cues. In this work, as human use local information, we infer global information using local information. We design attributed and-or grammar... \[[detail]()\]
-
-
-
-
-
+Research Scientist Intern, Amazon<br/>
+Summer, 2014
