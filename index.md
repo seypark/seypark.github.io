@@ -12,7 +12,7 @@ I am a Ph.D. student in Computer Science at the University of California, Los An
 *Email : seypark \[et\] cs.ucla.edu*<br/>
 
 ### Publications
-**Attributed Grammars for Joint Estimation of Human Attributes, Part and Pose** \[[detail](pages/jointattr.html)\]\[[pdf](http://www.stat.ucla.edu/~sczhu/papers/Conf_2015/attribute_grammar_ICCV2015.pdf)\]<br/>
+**Attributed Grammars for Joint Estimation of Human Attributes, Part and Pose** \[[detail](pages/jointattr.html)\]\[[pdf](http://cs.ucla.edu/~seypark/attr.pdf)\]<br/>
 S. Park, S.C. Zhu <br/>
 International Conference on Computer Vision (ICCV), 2015. To Appear.
 
